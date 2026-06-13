@@ -1,0 +1,10 @@
+file_format: "1"
+id: macropad
+name: Macropad 3x3
+type: shield
+url: ""
+requires: []
+features:
+  - keys
+  -encoder
+  -display
