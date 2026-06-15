@@ -4,6 +4,9 @@
 # Description
 This is a fully custom wireless hot swappable macropad with a custom Microcontroller. It has a total of nine fully custom programmable keyswitches and a rotary encoder as well as a 0.91 OLED display. It still remains pretty compact, while having that many components. It's size is approximately 10x6.8x1.6cm. There is a LiPo 3.7V Battery built in, but if you want to charge it, you can simply charge the battery via the USB-C receptacle. The macropad has an IC charger built in. If it is connected to the USB-C port, then the nRF52840 MCU chip, will be directly powered by the external power source, while the battery is being charged. However, if it is not connected to an external power supply, then the chip will be powered by the battery.
 
+# Motivation
+I have always wanted to design my own macropad, as it can be quite useful. I wanted to challenge myself a little bit, which is why I didn't choose a regular microcontroller and designed the entire board myself. 
+
 # Assembling the macropad
 It is quite straight forward to assemble everything. As the PCB will be preassembled by JLCPCB, since there are many components that cannot be hand soldered, there is not much to do on the soldering part. It is only necessary to solder the display and the rotary encoder onto the PCB and connect the Battery with the socket. There are four mounting holes on the PCB, that are used to screw screws onto the CAD model. For this project, you only need four M2 screws. It is also recommended to use heated threat inserts, to have a more guarentee more grip.
 
