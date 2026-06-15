@@ -1,0 +1,64 @@
+### Footprint positions - created on 2026-06-15T14:07:07 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref       Val                   Package                                              PosX       PosY       Rot  Side
+J1          Conn_01x02_Socket     JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal          136.1000  -145.8750    0.0000  bottom
+                                                                                   171.5500  -135.7250   90.0000  top
+C1          4.7uF                 C_0603_1608Metric                                159.1000  -141.1750   90.0000  top
+C2          12pF                  C_0402_1005Metric                                158.9500  -134.1050  -90.0000  top
+C3          12pF                  C_0402_1005Metric                                164.2750  -134.1450  -90.0000  top
+C4          100nF                 C_0402_1005Metric                                160.1750  -138.8750    0.0000  top
+C5          1uF                   C_0603_1608Metric                                154.2500  -136.8750  180.0000  top
+C6          1.0uF                 C_0603_1608Metric                                170.3500  -144.3750  180.0000  top
+C7          N.C.                  C_0402_1005Metric                                161.1250  -135.8000  180.0000  top
+C8          100pF                 C_0402_1005Metric                                170.9000  -142.6500  180.0000  top
+C9          N.C.                  C_0402_1005Metric                                168.8250  -136.3250    0.0000  top
+C10         100nF                 C_0402_1005Metric                                167.5250  -146.1500    0.0000  top
+C11         12pF                  C_0402_1005Metric                                165.8000  -134.1350  -90.0000  top
+C12         12pF                  C_0402_1005Metric                                171.2650  -134.1200  -90.0000  top
+C13         0.8pF                 C_0402_1005Metric                                169.4200  -139.5000   90.0000  top
+C14         0.5pF                 C_0402_1005Metric                                170.9200  -138.9350  180.0000  top
+C15         1.5pF                 C_0402_1005Metric                                172.3550  -136.2350  -90.0000  top
+C16         820pF                 C_0402_1005Metric                                170.9050  -141.6750  180.0000  top
+C17         4.7uF                 C_0603_1608Metric                                150.5250  -146.7750    0.0000  top
+C18         1uF                   C_0603_1608Metric                                151.1500  -136.8750    0.0000  top
+C19         4.7uF                 C_0603_1608Metric                                154.3500  -146.7750  180.0000  top
+C20         4.7uF                 C_0603_1608Metric                                143.2000  -142.8500   90.0000  top
+C21         1uF                   C_0603_1608Metric                                147.1250  -146.7500    0.0000  top
+C22         1uF                   C_0603_1608Metric                                161.0000  -146.7500    0.0000  top
+C23         100nF                 C_0402_1005Metric                                134.0000  -137.9500   90.0000  top
+D10         LED                   LED_0603_1608Metric                              152.0500  -142.6500    0.0000  top
+D11         LED                   LED_0603_1608Metric                              152.0500  -144.4250    0.0000  top
+Display1    Conn_01x04_Socket     PinHeader_1x04_P2.54mm_Vertical                  155.7000   -62.5500    0.0000  top
+J2          TYPE-C-31-M-12        HRO_TYPE-C-31-M-12                               125.4250  -144.6750    0.0000  top
+L1          4.7nH                 L_0402_1005Metric                                170.9200  -139.9850  180.0000  top
+MCU_flash1  Conn_01x05_Socket     PinHeader_1x05_P2.54mm_Vertical                  177.2000  -119.3100    0.0000  top
+R1          1.5k                  R_0402_1005Metric                                154.8650  -142.6750    0.0000  top
+R2          1.5k                  R_0402_1005Metric                                154.9250  -144.3750    0.0000  top
+R3          3.0k                  R_0402_1005Metric                                151.5600  -138.6250  180.0000  top
+R4          5.9k                  R_0402_1005Metric                                147.5750  -136.7600  -90.0000  top
+R5          0                     R_0402_1005Metric                                171.4050  -136.2350  -90.0000  top
+R6          47k                   R_0402_1005Metric                                148.6000  -136.7400  -90.0000  top
+R7          10k                   R_0402_1005Metric                                145.4500  -142.7750   90.0000  top
+R9          10k                   R_0402_1005Metric                                157.4500  -136.8500   90.0000  top
+R10         10k                   R_0402_1005Metric                                145.1500  -137.6750  -90.0000  top
+R11         5.1k                  R_0402_1005Metric                                127.2250  -138.1000   90.0000  top
+R12         5.1k                  R_0402_1005Metric                                124.2250  -138.1000  -90.0000  top
+SW1         Keyswitch             SW_Hotswap_Kailh_MX                              128.1200   -86.7750    0.0000  top
+SW2         Keyswitch             SW_Hotswap_Kailh_MX                              128.1200  -105.7750    0.0000  top
+SW3         Keyswitch             SW_Hotswap_Kailh_MX                              128.1200  -124.9500    0.0000  top
+SW4         Keyswitch             SW_Hotswap_Kailh_MX                              147.5950   -86.7750    0.0000  top
+SW5         Keyswitch             SW_Hotswap_Kailh_MX                              147.5950  -105.7750    0.0000  top
+SW6         Keyswitch             SW_Hotswap_Kailh_MX                              147.5950  -124.9500    0.0000  top
+SW7         Keyswitch             SW_Hotswap_Kailh_MX                              166.7580   -86.7750    0.0000  top
+SW8         Keyswitch             SW_Hotswap_Kailh_MX                              166.7580  -105.7750    0.0000  top
+SW9         Keyswitch             SW_Hotswap_Kailh_MX                              166.7580  -124.9500    0.0000  top
+SW10        SW_Push               SW_Push_1P1T_NO_CK_KMR2                          137.9250  -137.9000  180.0000  top
+SW11        RotaryEncoder_Switch  RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm   160.1000   -63.7000    0.0000  top
+U1          NRF52840-QIAA-R       AQFN-73-1EP_7x7mm_P0.5mm_NRF52840-custom         165.0000  -140.7750    0.0000  top
+U2          BQ24074RGTR           QFN50P300X300X100-17N                            148.3500  -139.8850    0.0000  top
+VR1         MCP1700T-3302E_TT     SOT95P237X112-3N                                 156.3650  -139.8750  180.0000  top
+X1          32MHz                 Crystal_SMD_2016-4Pin_2.0x1.6mm                  168.4650  -134.5100  180.0000  top
+X2          32.768kHz             Crystal_SMD_3215-2Pin_3.2x1.5mm                  161.5750  -134.0250    0.0000  top
+## End
