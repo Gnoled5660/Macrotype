@@ -24,6 +24,8 @@ The PCB is a 4 layer PCB, with the first and fourth layer function as signal tra
 
 <img width="401" height="558" alt="Bildschirmfoto 2026-06-15 um 15 30 40" src="https://github.com/user-attachments/assets/41fdd68b-ad4e-46ae-9b08-17dd05f2f166" />
 
+<img width="427" height="529" alt="Bildschirmfoto 2026-06-17 um 20 18 41" src="https://github.com/user-attachments/assets/4c2a2748-1ac7-4511-9d1a-a57475e5404e" />
+
 # Firmware 
 To boot the nRF52840 chip, you have to use a bootloader and connect it physically to the pin sockets on the board. There is a row with the sockets CLK and SWD. Connect it to these rows and flash the Firmware onto it. You can find it in the folder Firmware. Afterwards, you can simply connect the chip via the USB-C port to a computer and upload the uf2 file, which contains all the keyboard settings. The keyboard firmware was built with ZMK.
 
