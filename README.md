@@ -1,4 +1,4 @@
-[convertcsv.md](https://github.com/user-attachments/files/29061322/convertcsv.md)# Macrotype
+# Macrotype
 <img width="2940" height="1082" alt="Macropad_with_Case_2026-Jun-15_12-51-55PM-000_CustomizedView37122516277_png" src="https://github.com/user-attachments/assets/22f076a1-08fb-456f-b659-dfaa1f1d5323" />
 
 # Description
@@ -31,7 +31,9 @@ The PCB is a 4 layer PCB, with the first and fourth layer function as signal tra
 # Firmware 
 To boot the nRF52840 chip, you have to use a bootloader and connect it physically to the pin sockets on the board. There is a row with the sockets CLK and SWD. Connect it to these rows and flash the Firmware onto it. You can find it in the folder Firmware. Afterwards, you can simply connect the chip via the USB-C port to a computer and upload the uf2 file, which contains all the keyboard settings. The keyboard firmware was built with ZMK.
 
-# BOM
+<img width="1688" height="2588" alt="Copy of fallout_zine_template-7" src="https://github.com/user-attachments/assets/5cde8c04-1896-4b9b-b169-ae3dbef9e274" />
+
+# Bom
 |Reference              |Qty|Links                                                                                                                                                                                                                                                                        |Value               |Footprint                                                    |Description                                                                                                                   |Price    |
 |-----------------------|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------|
 |Crystal                |1  |https://jlcpcb.com                                                                                                                                                                                                                                                           |32.768kHz           |Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm                      |Two pin crystal                                                                                                               |See below|
@@ -70,6 +72,5 @@ To boot the nRF52840 chip, you have to use a bootloader and connect it physicall
 |total                  |   |                                                                                                                                                                                                                                                                             |                    |                                                             |                                                                                                                              |124      |
 
 
-<img width="1688" height="2588" alt="Copy of fallout_zine_template-7" src="https://github.com/user-attachments/assets/5cde8c04-1896-4b9b-b169-ae3dbef9e274" />
 
 
