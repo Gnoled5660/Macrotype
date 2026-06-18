@@ -29,7 +29,7 @@ The PCB is a 4 layer PCB, with the first and fourth layer function as signal tra
 <img width="406" height="497" alt="Bildschirmfoto 2026-06-17 um 20 19 51" src="https://github.com/user-attachments/assets/1dd3853a-66dc-4d41-aafe-d0f808ab96b8" />
 
 # Firmware 
-To boot the nRF52840 chip, you have to use a bootloader and connect it physically to the pin sockets on the board. There is a row with SWD sockets. Connect it to these rows and flash the Firmware onto it. You can find it in the folder Firmware. Afterwards, you can simply connect the chip via the USB-C port to a computer and upload the uf2 file, which contains all the keyboard settings. The keyboard firmware was built with ZMK.
+To flash the nRF52840 chip, you have to use a bootloader and connect it physically to the pin sockets on the board. There is a row with SWD sockets. Connect it to these rows and flash the Firmware onto it. You can find it in the folder Firmware. Afterwards, you can simply connect the chip via the USB-C port to a computer and upload the uf2 file, which contains all the keyboard settings and drag the files onto the chip. The keyboard firmware was built with ZMK.
 
 # Case
 The case consists of two different parts. The bottom part has four holes, where heated threat inserts can be inserted. There is a rectangle that stands out a little bit, so that it can be pressed in to the other part.
