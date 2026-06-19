@@ -31,6 +31,9 @@ The PCB is a 4 layer PCB, with the first and fourth layer function as signal tra
 # Firmware 
 To flash the nRF52840 chip, you have to use a bootloader and connect it physically to the pin sockets on the board. There is a row with SWD sockets. Connect it to these rows and flash the Firmware onto it. You can find it in the folder Firmware. Afterwards, you can simply connect the chip via the USB-C port to a computer and upload the uf2 file, which contains all the keyboard settings and drag the files onto the chip. The keyboard firmware was built with ZMK.
 
+# Firmware setup
+The firmware was built with ZMK. After following the guide of ZMK of how to setup your own ZMK configuration GitHub repo, you have to change the board informations according to your needs. My custom Macropad includes having a rotary encoder, display and a 3x3 Matrix switches. You can find the configurations in detail in the ZMK config file.
+
 # Case
 The case consists of two different parts. The bottom part has four holes, where heated threat inserts can be inserted. There is a rectangle that stands out a little bit, so that it can be pressed in to the other part.
 
