@@ -15,6 +15,9 @@ The main component is the nRF52840, a relatively cheap chip, that is capable of 
 
 <img width="847" height="588" alt="Bildschirmfoto 2026-06-15 um 15 30 08" src="https://github.com/user-attachments/assets/6ae6993c-5bdc-4111-82bd-87488bc95a0e" />
 
+Using this reference provided by nordic semiconductors, I was able to draw the schematic around the chip.
+
+<img width="846" height="596" alt="Bildschirmfoto 2026-06-19 um 12 18 31" src="https://github.com/user-attachments/assets/555a2dfc-1e08-43f3-8eeb-0035174359ec" />
 
 # PCB
 The PCB is a 4 layer PCB, with the first and fourth layer function as signal transmitting layers. The second layer is a big Ground plane and the third layer is a hybrid layer with signal tracks and Ground planes. The most crucial part of the PCB is the radio frequency part. This part cannot have any tracks or Ground planes above or under it, as any distrubances might change the frequency.
